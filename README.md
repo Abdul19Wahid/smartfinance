@@ -6,11 +6,15 @@ Smart Finance is a personal finance manager for tracking income, expenses, budge
 
 🔗 **Live app:** [walletwiseapp.xo.je](https://walletwiseapp.xo.je)
 
-<!-- Add 2–3 real screenshots here once you have them, e.g.:
-![Dashboard](docs/screenshots/dashboard.png)
-![Reports](docs/screenshots/reports.png)
-![Mobile quick-add](docs/screenshots/mobile-quick-add.png)
--->
+| Dashboard | Mobile quick-add |
+|---|---|
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Mobile quick-add](docs/screenshots/mobile-quick-add.png) |
+
+| Reports & insights | Budget alert |
+|---|---|
+| ![Reports](docs/screenshots/reports.png) | ![Budget alert](docs/screenshots/budget-alert.png) |
+
+![Budgets](docs/screenshots/budgets.png)
 
 ## Features
 
